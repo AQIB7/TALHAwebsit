@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TALHAwebsit/static/css/main.b4976a0b.chunk.css",
+    "main.js": "/TALHAwebsit/static/js/main.38f33868.chunk.js",
+    "main.js.map": "/TALHAwebsit/static/js/main.38f33868.chunk.js.map",
+    "runtime-main.js": "/TALHAwebsit/static/js/runtime-main.538a75a2.js",
+    "runtime-main.js.map": "/TALHAwebsit/static/js/runtime-main.538a75a2.js.map",
+    "static/js/2.0564e7f4.chunk.js": "/TALHAwebsit/static/js/2.0564e7f4.chunk.js",
+    "static/js/2.0564e7f4.chunk.js.map": "/TALHAwebsit/static/js/2.0564e7f4.chunk.js.map",
+    "index.html": "/TALHAwebsit/index.html",
+    "static/css/main.b4976a0b.chunk.css.map": "/TALHAwebsit/static/css/main.b4976a0b.chunk.css.map",
+    "static/js/2.0564e7f4.chunk.js.LICENSE.txt": "/TALHAwebsit/static/js/2.0564e7f4.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/TALHAwebsit/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.svg": "/TALHAwebsit/static/media/svg-2.5f11287c.svg",
+    "static/media/svg-3.198c8835.svg": "/TALHAwebsit/static/media/svg-3.198c8835.svg",
+    "static/media/svg-4.svg": "/TALHAwebsit/static/media/svg-4.5ef826e9.svg",
+    "static/media/svg-5.b8e41778.svg": "/TALHAwebsit/static/media/svg-5.b8e41778.svg",
+    "static/media/video.d48e2181.mp4": "/TALHAwebsit/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.538a75a2.js",
+    "static/js/2.0564e7f4.chunk.js",
+    "static/css/main.b4976a0b.chunk.css",
+    "static/js/main.38f33868.chunk.js"
+  ]
+}
